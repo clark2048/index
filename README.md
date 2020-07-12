@@ -1,2 +1,2 @@
-# relaseApp
+# releaseApp
 AppWebSite
